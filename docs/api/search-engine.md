@@ -34,7 +34,7 @@ page_nav:
      <summary>
        <h2> API Key / Token </h2>
      </summary>
-<p>Personal <b>API key</b> or <b>token</b> is a shortcode in text format. This token grants you permission to send requests to searching and retrieval engines. After we receive a payment from a client, we issue an API key. You may proceed with the payment on <a href="https://icons8.recurly.com/subscribe/api_access" rel="nofollow">this page</a>.</p>
+<p>Personal <b>API key</b> or <b>token</b> is a shortcode in text format. This token grants you permission to send requests to searching and retrieval engines. After we receive a payment from a client, we issue an API key. You may proceed with the payment on <a href="https://icons8.com/buy/monthly-api-subscription" rel="nofollow">this page</a>.</p>
    </details>
    </li>
     <li>
