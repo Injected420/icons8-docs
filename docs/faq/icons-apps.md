@@ -26,7 +26,7 @@ page_nav:
   <summary>
    <h2> Paid License. Subscription. How to purchase?</h2>
  </summary>
-<p>Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>stay yours for good</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about <a href="https://icons8.com/download/Icons8_License.pdf" rel="nofollow">permitted and prohibited uses</a>.</p>
+<p>Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>stay yours for good</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about <a href="https://icons8.com/vue-static/landings/pricing/icons8-license.pdf" rel="nofollow">permitted and prohibited uses</a>.</p>
 <p><a href="https://icons8.com/paid-license-99/#/" rel="nofollow">Monthly subscription would cost you 19.95$ and annual just 199.90$</a>.</p>
  </details> 
 </li> 
@@ -45,7 +45,7 @@ page_nav:
   <summary>
    <h2>Can I Use Downloaded Icons After my Subscription is Expired?</h2>
  </summary>
-<p>Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>stay yours for good</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about <a href="https://icons8.com/download/Icons8_License.pdf" rel="nofollow">permitted and prohibited uses</a>.</p>
+<p>Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>stay yours for good</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about <a href="https://icons8.com/vue-static/landings/pricing/icons8-license.pdf" rel="nofollow">permitted and prohibited uses</a>.</p>
 <p><a href="https://icons8.com/paid-license-99/#/" rel="nofollow">Monthly subscription would cost you 19.95$ and annual just 199.90$</a>.</p>
  </details>
   
@@ -55,7 +55,7 @@ page_nav:
   <summary>
    <h2>How Can I Purchase Just a Single Icon?</h2>
  </summary>
-<p>Unfortunately, we do not have such an option at the moment. The best solution would be to purchase a subscription for a month. Then download as many icons as you need. And eventually, cancel the subscription. You honestly may cancel your subscription at any time, no hidden costs, no tricks, no stuff like that. After your subscription is canceled you may continue to use your icons in current or future commercial projects. These icons stay yours for good. Though, there are few restrictions applied: <a href="https://icons8.com/download/Icons8_License.pdf" rel="nofollow">https://icons8.com/download/Icons8_License.pdf</a></p>
+<p>Unfortunately, we do not have such an option at the moment. The best solution would be to purchase a subscription for a month. Then download as many icons as you need. And eventually, cancel the subscription. You honestly may cancel your subscription at any time, no hidden costs, no tricks, no stuff like that. After your subscription is canceled you may continue to use your icons in current or future commercial projects. These icons stay yours for good. Though, there are few restrictions applied: <a href="https://icons8.com/vue-static/landings/pricing/icons8-license.pdf" rel="nofollow">https://icons8.com/vue-static/landings/pricing/icons8-license.pdf</a></p>
  </details>
 </li>
 
