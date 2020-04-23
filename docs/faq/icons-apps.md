@@ -413,10 +413,10 @@ In order to edit a title of a collection click on the <b>"more options"</b> butt
   <summary>
    <h2> What Should I Do if I Can not Find an Icon That I Need? </h2>
  </summary>
-<p>You may send us a <a href="https://icons8.com/request-icon/" rel="nofollow">request</a> to draw an icon you need. <a href="https://icons8.com/request-icon/free/hot" rel="nofollow">It’s completely free</a>. We try to do our the best to make our service comprehensive. However, we do prioritize the requests which have the highest demand. Be creative, ask your friends, relatives, and any community members to vote for your requested icon to put your request higher on the queue.</p>
-<p>Alternatively, there is a paid fast option too, <a href="https://icons8.com/request-icon/custom/" rel="nofollow">$50 per icon, up to 20 icons a day</a>.</p>
+<p>You may send us a <a href="https://icons8.com/icons/request-icon" rel="nofollow">request</a> to draw an icon you need. It’s completely free. We try to do our the best to make our service comprehensive. However, we do prioritize the requests which have the highest demand. Be creative, ask your friends, relatives, and any community members to vote for your requested icon to put your request higher on the queue.</p>
+<p>Alternatively, there is a paid fast option too, $50 per icon, up to 20 icons a day.</p>
  </details> 
-</li> 
+</li>
 
 <li>
  <details>
