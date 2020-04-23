@@ -62,7 +62,6 @@ page_nav:
 <ul>
 <li>Access to generate PNG icons larger than 550 px</li>
 <li>Access to vector-format icons (SVG, EPS, PDF). Popular SVG icons are available for <b>free</b>.</li>
-<li>Access to more <a href="#service-integration-framework">'advanced search engine'</a></li>
 </ul>
  </details>
  </li>
