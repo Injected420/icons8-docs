@@ -8,7 +8,7 @@ title: Icons Documentation
 description: This document covers everything to get started with our icons. It covers our apps for web, Windows, Mac, and our API.
 buttons:
     - content: VIEW ON GITHUB
-      url: 'https://github.com/icons8/lunacy-docs'
+      url: 'https://github.com/icons8/icons8-docs'
       external_url: true
 
 # Grid navigation
