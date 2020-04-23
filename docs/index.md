@@ -18,7 +18,7 @@ grid_navigation:
       icon: 'web-design'
       cards:
       - title: Features
-        excerpt: Search, edit, download, colections, HTML
+        excerpt: Search, edit, download, collections, HTML
         url: '/web-app/'
         icon: 'confectionery'
       - title: Licensing
