@@ -342,7 +342,6 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
  </summary>
 
 <p>You may send us a <a href="https://icons8.com/icons/request-icon/" rel="nofollow">request</a> to draw an icon you need. It’s completely free. We try to do our the best to make our service comprehensive. However, we do prioritize the requests which have the highest demand. Be creative, ask your friends, relatives, and any community members to vote for your requested icon to put your request higher on the queue.</p>
-<p>Alternatively, there is a paid fast option too, $50 per icon, up to 20 icons a day.</p>
  </details>
 </li>
 <li>
